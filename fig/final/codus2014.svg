@@ -16,10 +16,10 @@
    width="210mm"
    height="297mm"
    viewBox="0 0 744.09449 1052.3622"
-   sodipodi:docname="cod_us_2014.svg"
-   inkscape:export-filename="/home/jon/lucile/share/jowncloud/sci/cod_us_2014/fig/final/cod_us_2014.png"
-   inkscape:export-xdpi="300.01077"
-   inkscape:export-ydpi="300.01077"><sodipodi:namedview
+   sodipodi:docname="codus2014.svg"
+   inkscape:export-filename="/home/jon/lucile/share/jowncloud/sci/codus2014/fig/final/codus2014_90dpi.png"
+   inkscape:export-xdpi="89.969025"
+   inkscape:export-ydpi="89.969025"><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -33,8 +33,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="312.77825"
-     inkscape:cy="426.51697"
+     inkscape:cx="296.77825"
+     inkscape:cy="786.51697"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -46,7 +46,7 @@
      units="mm" /><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        id="clipPath36"
        clipPathUnits="userSpaceOnUse"><path
@@ -3084,4 +3084,28 @@
          x="388.26474"
          y="-47.718128"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Roboto;-inkscape-font-specification:Roboto">Reproducible Analysis:</tspan></text>
+<text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="151.00969"
+       y="-767.63605"
+       id="text5077"
+       sodipodi:linespacing="125%"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan5079"
+         x="151.00969"
+         y="-767.63605">Female</tspan></text>
+<text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="447.81827"
+       y="-767.63605"
+       id="text5081"
+       sodipodi:linespacing="125%"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan5083"
+         x="447.81827"
+         y="-767.63605">Male</tspan></text>
 </g></svg>
